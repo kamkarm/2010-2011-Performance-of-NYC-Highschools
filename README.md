@@ -7,7 +7,7 @@ Using Pandas, the datasets are extracted, cleaned, then loaded into three tables
 Then using sqlite, the tables are merged into one table, extracting unique attribues from each table.
 I then query the best schools from the table.
 
-Datasets provide data on the performance of NYC Highschools during the 2010-2011 school year and can be found at:
+Datasets provide data on the performance of NYC High schools during the 2010-2011 school year and can be found at:
 https://data.cityofnewyork.us/Education/2010-2011-School-Progress-Reports-All-Schools/yig9-9zum
 https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e
 https://data.cityofnewyork.us/Education/2010-SAT-College-Board-School-Level-Results/zt9s-n5aj
