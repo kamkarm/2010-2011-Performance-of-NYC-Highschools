@@ -1,4 +1,4 @@
-# 2010-2011-Performance-of-NYC-Highschools
+# 2010-2011 Performance of NYC High schools
 ETL Process
 
 This project I will extract, transform, and load three datasets into a local database.
